@@ -1,9 +1,7 @@
 # weibo-trending-hot-search
 
-
-微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天[归档](./archives)。
-
-
+微博热搜榜，记录从 2020-11-24
+日开始的微博热门搜索。每小时抓取一次数据，按天[归档](./archives)。
 
 ## 今日热门搜索
 
@@ -384,5 +382,3 @@
 1. [咖啡店回应连花清瘟四件套](https://s.weibo.com//weibo?q=%23%E5%92%96%E5%95%A1%E5%BA%97%E5%9B%9E%E5%BA%94%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%9B%9B%E4%BB%B6%E5%A5%97%23&t=31&band_rank=46&Refer=top)
 1. [儿童感染新冠出现下列症状要立即就诊](https://s.weibo.com//weibo?q=%23%E5%84%BF%E7%AB%A5%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%87%BA%E7%8E%B0%E4%B8%8B%E5%88%97%E7%97%87%E7%8A%B6%E8%A6%81%E7%AB%8B%E5%8D%B3%E5%B0%B1%E8%AF%8A%23&t=31&band_rank=47&Refer=top)
 1. [许半夏终于和记忆和解了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%8D%8A%E5%A4%8F%E7%BB%88%E4%BA%8E%E5%92%8C%E8%AE%B0%E5%BF%86%E5%92%8C%E8%A7%A3%E4%BA%86%23&t=31&band_rank=49&Refer=top)
-
-
